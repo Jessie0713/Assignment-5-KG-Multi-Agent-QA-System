@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T19:11:20.983737Z",
+  "generated_at": "2026-05-07T15:26:29.130235Z",
   "summary": {
     "total_cases": 40,
     "passed_cases": 40,
@@ -27,7 +27,7 @@
       "expected": "20 minutes.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0145,
+      "latency_sec": 0.0437,
       "contract": {
         "required_fields": [
           "answer",
@@ -63,7 +63,7 @@
       "expected": "No, you must wait 40 minutes.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0145,
+      "latency_sec": 0.0281,
       "contract": {
         "required_fields": [
           "answer",
@@ -99,7 +99,7 @@
       "expected": "5 points deduction.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0164,
+      "latency_sec": 0.0318,
       "contract": {
         "required_fields": [
           "answer",
@@ -135,7 +135,7 @@
       "expected": "5 points deduction, or up to zero score.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0198,
+      "latency_sec": 0.0788,
       "contract": {
         "required_fields": [
           "answer",
@@ -171,7 +171,7 @@
       "expected": "Zero score and disciplinary action.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0253,
+      "latency_sec": 0.0345,
       "contract": {
         "required_fields": [
           "answer",
@@ -207,7 +207,7 @@
       "expected": "No, the score will be zero.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0153,
+      "latency_sec": 0.0355,
       "contract": {
         "required_fields": [
           "answer",
@@ -243,7 +243,7 @@
       "expected": "Zero score and disciplinary action.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0176,
+      "latency_sec": 0.0416,
       "contract": {
         "required_fields": [
           "answer",
@@ -279,7 +279,7 @@
       "expected": "200 NTD.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0178,
+      "latency_sec": 0.0364,
       "contract": {
         "required_fields": [
           "answer",
@@ -315,7 +315,7 @@
       "expected": "100 NTD.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0166,
+      "latency_sec": 0.0608,
       "contract": {
         "required_fields": [
           "answer",
@@ -351,7 +351,7 @@
       "expected": "3 working days.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0139,
+      "latency_sec": 0.0435,
       "contract": {
         "required_fields": [
           "answer",
@@ -387,7 +387,7 @@
       "expected": "128 credits.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0137,
+      "latency_sec": 0.0635,
       "contract": {
         "required_fields": [
           "answer",
@@ -423,7 +423,7 @@
       "expected": "5 semesters.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0151,
+      "latency_sec": 0.2493,
       "contract": {
         "required_fields": [
           "answer",
@@ -459,7 +459,7 @@
       "expected": "No.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0135,
+      "latency_sec": 0.0261,
       "contract": {
         "required_fields": [
           "answer",
@@ -495,7 +495,7 @@
       "expected": "4 years.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0131,
+      "latency_sec": 0.0209,
       "contract": {
         "required_fields": [
           "answer",
@@ -531,7 +531,7 @@
       "expected": "2 years.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0148,
+      "latency_sec": 0.0214,
       "contract": {
         "required_fields": [
           "answer",
@@ -567,7 +567,7 @@
       "expected": "60 points.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0114,
+      "latency_sec": 0.0194,
       "contract": {
         "required_fields": [
           "answer",
@@ -603,7 +603,7 @@
       "expected": "70 points.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0145,
+      "latency_sec": 0.0192,
       "contract": {
         "required_fields": [
           "answer",
@@ -639,7 +639,7 @@
       "expected": "Failing more than half (1/2) of credits for two semesters.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0555,
+      "latency_sec": 0.0192,
       "contract": {
         "required_fields": [
           "answer",
@@ -675,7 +675,7 @@
       "expected": "No.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0141,
+      "latency_sec": 0.0194,
       "contract": {
         "required_fields": [
           "answer",
@@ -711,7 +711,7 @@
       "expected": "2 academic years.",
       "pass": true,
       "reason": "exact/contain match",
-      "latency_sec": 0.0139,
+      "latency_sec": 0.0261,
       "contract": {
         "required_fields": [
           "answer",
