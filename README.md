@@ -80,3 +80,5 @@ pip install -r requirements.txt
 # Neo4j 啟動且已建圖後
 python auto_test_a5.py
 ```
+<img width="476" height="248" alt="image" src="https://github.com/user-attachments/assets/e7f21e3b-655d-4978-91b5-76b23410470f" />
+
